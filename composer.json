@@ -1,0 +1,21 @@
+{
+    "name": "zijingedu/yii2-rbac",
+    "description": "the rbac components for ezijing education multiple project",
+    "type": "library",
+    "keywords": ["yii2","extension","rbac"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Josephmao",
+            "email": "wumao@ezijing.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ezijing\\rbac\\": ""
+        }
+    }
+}

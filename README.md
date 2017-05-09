@@ -1,5 +1,4 @@
 # yii2-rbac
-ezijing rbac
 ============
 the rbac components for ezijing education multiple project
 
